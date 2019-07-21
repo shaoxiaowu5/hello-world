@@ -6,9 +6,6 @@ E  e
 F  f
 G  g
 
-
-P  p 0
-Q  q 0
-Z  z 0
-
-
+P  p 0 1
+Q  q 0 1
+Z  z 0 1
